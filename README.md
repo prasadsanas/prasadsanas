@@ -2,7 +2,7 @@
 
 💻 **Senior Frontend Developer | React.js | JavaScript | TypeScript**  
 
-I’m a frontend engineer with **4+ years of experience** building scalable, enterprise-grade web applications.  
+I’m a frontend engineer with **4.5+ years of experience** building scalable, enterprise-grade web applications.  
 I love solving complex problems, designing modular architectures, and mentoring teams to deliver high-quality, impactful products.  
 
 ---
