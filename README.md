@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Prasad 👋  
 
-<!--
-**prasadsanas/prasadsanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend Developer | React.js | TypeScript | JavaScript**  
 
-Here are some ideas to get you started:
+I’m passionate about building **scalable, performant, and user-friendly web applications**.  
+I enjoy working on modern frontend technologies, system design, and exploring how **AI can enhance developer productivity**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Currently working as a **Software Development Engineer (Frontend)**
+- 🌱 Learning **Next.js** & **System Design for Frontend**
+- 🛠 Skilled in **React.js, TypeScript, Redux, Jest, HTML, CSS, Git**
+- ⚡ Interested in **AI + Frontend development, Data Visualization, and Startup ideas**
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Frontend:** React.js, Next.js, Redux, React Testing Library, Jest  
+- **Design:** Figma, SCSS  
+- **Other Tools:** Git, Jira, Bitbucket, Webpack  
+---
+
+## 📫 Connect with Me
+- 📧 Email: [prasadsanas15@gmail.com](mailto:prasadsanas15@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/prasadsanas](#)  
+- 🌐 Portfolio: [your-portfolio-link.com](#)  
+
+---
+
+⭐️ *If you find my projects helpful, consider giving them a star!*  
